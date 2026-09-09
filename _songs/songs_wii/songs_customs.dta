@@ -40,7 +40,7 @@
    (album_track_number 15)
    (base_points 222785)
    (game_origin greenday)
-   (downloaded FALSE)
+   (downloaded TRUE)
    (date_released
       #ifdef HX_WII
       "1994-01-01"
