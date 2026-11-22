@@ -53,7 +53,8 @@
    ;(guide_pitch_volume -4.0)
    ;(vocal_tonic_note 7)
    (author "NothingChanges")
-)(miltoncomeclean
+)
+(miltoncomeclean
    (name
       "Coming Clean (Milton Keynes)")
    (artist
